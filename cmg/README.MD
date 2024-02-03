@@ -1,11 +1,5 @@
-# A1 - CANVAS
-Assignment 1 for CS349. Designing a card-flipping Game 
-
-# Student Information 
-Name: Xin Huey Wong 
-Student ID: 2093204
-UWaterloo Email: xhwong@uwaterloo.ca
-
+# Description
+Designing a card-flipping Game 
 # Use of other sources/references:
 1. StackOverFlow 
 2. Medium.com
